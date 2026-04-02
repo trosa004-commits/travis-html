@@ -1,0 +1,35 @@
+body { 
+
+    
+
+
+
+
+
+
+
+
+
+
+}
+  
+.navbar a {  
+  display: incline-block;
+  color: white;
+}
+
+  /* key part */
+.navbar a {
+  display: inline-block;
+  color: rgb(250, 8, 8);
+  text-decoration: none; 
+  padding: 10px 20px;
+  margin: 0 5px;      
+  
+  background-color: #08c2a9;
+                       
+}
+
+.navbar a:hover 
+  background-color: #1f1f1f;
+  border-radius: 4px;
